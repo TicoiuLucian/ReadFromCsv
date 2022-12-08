@@ -15,7 +15,7 @@ public class ReadFromCsvApplication {
 
 //Tema Liviu: sa se creeze un endpoint (controller nou) care genereaza un csv cu header
 // (username, identifier, first name, last name) si contine 1000 de useri
-// Hint: Java faker -> Liviu
+// Hint: Java faker
 
 //Tema Roxana: MyUserController creaza un enpoint pentru a descarca intr-un fisier csv tot
 // ce se afla in tabelul MyUser
